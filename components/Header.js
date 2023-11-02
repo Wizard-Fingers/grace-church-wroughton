@@ -24,7 +24,7 @@ export default function Header() {
       </div>
       <div className={styles.boxText}>
         <p className={styles.p}>
-          Join us Sunday Afternoons at the Gospel Hall on 8 Markham Rd,
+          Join us Sunday Afternoons at the Gospel Hall at 3PM on 8 Markham Rd,
           Wroughton, SN4 9JT for a time of fellowship, singing teaching and
           prayer.
         </p>
